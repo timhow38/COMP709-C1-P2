@@ -1,0 +1,5 @@
+Series 7 - Play a Video
+
+Act1 = VideoView - Android Studio Tutorial
+Act2 = SoundPool - Android Studio Tutorial
+Act3 = How to Play a Sound File Using the MediaPlayer Class - Android Studio Tutorial

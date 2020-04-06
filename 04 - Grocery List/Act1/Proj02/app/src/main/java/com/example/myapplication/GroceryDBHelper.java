@@ -34,4 +34,3 @@ public class GroceryDBHelper extends SQLiteOpenHelper {
     }
 }
 
-

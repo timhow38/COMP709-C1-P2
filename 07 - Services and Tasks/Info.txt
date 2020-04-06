@@ -1,0 +1,15 @@
+Series 10 - Quiz App 1 to 14
+
+Act1 = JobScheduler 
+Act2 = How to Start a Foreground Service in Android
+Act3 = IntentService on Android Oreo
+Act4 = JobIntentService - Android Studio Tutorial
+Act5 = BroadcastReceiver Tutorial Part 1 - STATIC RECEIVERS - Android Studio Tutorial
+Act6 = BroadcastReceiver Tutorial Part 2 - DYNAMIC RECEIVERS - Android Studio Tutorial
+Act7 = BroadcastReceiver Tutorial Part 3 - CUSTOM BROADCASTS - Android Studio Tutorial
+Act8 = BroadcastReceiver Tutorial Part 4 - EXPLICIT BROADCASTS - Android Studio Tutorial
+Act9 = BroadcastReceiver Tutorial Part 5 - ORDERED BROADCASTS - Android Studio Tutorial
+Act10 = BroadcastReceiver Tutorial Part 6 - BROADCAST PERMISSIONS - Android Studio Tutorial
+Act11 = BroadcastReceiver Tutorial Part 7 - LOCAL BROADCAST MANAGER - Android Studio Tutorial
+Act12 = BroadcastReceiver Tutorial Part 8 - GOASYNC + PENDINGRESULT - Android Studio Tutorial
+Act13 = AlarmManager - Android Studio Tutorial

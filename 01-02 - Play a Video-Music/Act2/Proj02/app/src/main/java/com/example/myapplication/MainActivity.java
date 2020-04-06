@@ -1,15 +1,12 @@
 package com.example.myapplication;
-/** Description: Pass Variables*/
-
-import androidx.appcompat.app.AppCompatActivity;
-import android.os.Bundle;
-
-/** ImportLib {@Button,@Intent,@View,@EditText}. */
 import android.media.AudioAttributes;
 import android.media.AudioManager;
 import android.media.SoundPool;
 import android.os.Build;
+import android.os.Bundle;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     private SoundPool soundPool;

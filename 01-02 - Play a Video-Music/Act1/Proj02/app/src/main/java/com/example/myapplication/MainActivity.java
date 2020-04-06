@@ -1,13 +1,11 @@
 package com.example.myapplication;
-/** Description: Pass Variables*/
 
-import androidx.appcompat.app.AppCompatActivity;
+import android.net.Uri;
 import android.os.Bundle;
-
-/** ImportLib {@Button,@Intent,@View,@EditText}. */
 import android.widget.MediaController;
 import android.widget.VideoView;
-import android.net.Uri;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 

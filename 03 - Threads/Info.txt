@@ -1,0 +1,5 @@
+Series 8 - Threads - 1 to 3
+
+Act1 = How to Start a Background Thread in Android
+Act2 = Looper, MessageQueue & Handler Explained - Android Studio Tutorial
+Act3 = HandlerThread - Android Studio Tutorial
